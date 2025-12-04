@@ -2,15 +2,16 @@
 <opml version="2.0" xmlns:rssguard="https://github.com/martinrotter/rssguard">
   <head>
     <title>RSS Guard</title>
-    <dateCreated>Wed, 03 Dec 2025 12:09:51 GMT</dateCreated>
+    <dateCreated>Thu, 04 Dec 2025 11:14:29 GMT</dateCreated>
   </head>
   <body>
     <outline description="Canale YouTube relevante pentru EmComm" text="YouTube">
       <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Off-Grid Ham Radio OH8STN" title="Off-Grid Ham Radio OH8STN" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3xxr5EeFDtxnuHTWsDu2rA"/>
       <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Tech Prepper" title="The Tech Prepper" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCacth3foPsjqgV4wW4kuDDw"/>
     </outline>
-    <outline description="Bloguri cu tematică EmComm" text="Bloguri">
+    <outline description="Bloguri și știri cu tematică EmComm" text="Bloguri și știri">
       <outline description="Ham Radio, NVIS, QRP, Man-Portable, Radio Operator,  Off Grid Comms, Survival Radio, Grid Down Comms, LiFePO4 Battery, Solar Generator, Portable Power, Winlink, JS8Call, VARAC, Robust Packet, Emergency Communications, Preparedness, Ham Radio with a Microsoft Surface" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Off Grid Ham Radio OH8STN" title="Off Grid Ham Radio OH8STN" type="rss" version="ATOM" xmlUrl="https://oh8stn.org/feed/atom/"/>
+      <outline description="Radioamatori Voluntari în Situații de Urgență" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="RVSU" title="RVSU" type="rss" version="ATOM" xmlUrl="http://www.rvsu.ro/feed/atom"/>
     </outline>
     <outline description="Versiuni noi ale softurilor de interes" text="Softuri">
       <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="JS8Call-improved" title="JS8Call-improved" type="rss" version="ATOM" xmlUrl="https://github.com/JS8Call-improved/JS8Call-improved/releases.atom"/>
