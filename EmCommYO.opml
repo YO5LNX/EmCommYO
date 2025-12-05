@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:rssguard="https://github.com/martinrotter/rssguard">
   <head>
     <title>RSS Guard</title>
-    <dateCreated>Thu, 04 Dec 2025 11:14:29 GMT</dateCreated>
+    <dateCreated>Fri, 05 Dec 2025 08:02:31 GMT</dateCreated>
   </head>
   <body>
     <outline description="Canale YouTube relevante pentru EmComm" text="YouTube">
@@ -16,6 +16,7 @@
     <outline description="Versiuni noi ale softurilor de interes" text="Softuri">
       <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="JS8Call-improved" title="JS8Call-improved" type="rss" version="ATOM" xmlUrl="https://github.com/JS8Call-improved/JS8Call-improved/releases.atom"/>
       <outline description="Files from fldigi Fldigi is a modem program for most of the digital modes used by radio amateurs today: CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia, and Throb are all supported. It can help calibrate a sound card to a time signal and do frequency measurement tests. &#xa;&#xa;NOTICE: You must proceed to the Files section to locate the correct fldigi, flrig etal download for your particular operating system.  Do not blithely use the big green Download button!  Use the &amp;#34;Files&amp;#34; menu item or the &amp;#34;Browse All Files&amp;#34; link." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="fldigi" title="fldigi" type="rss" version="RSS" xmlUrl="https://sourceforge.net/projects/fldigi/rss?path=/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="FreeDATA" title="FreeDATA" type="rss" version="ATOM" xmlUrl="https://github.com/dj2ls/freedata/releases.atom"/>
     </outline>
   </body>
 </opml>
